@@ -85,7 +85,7 @@
 
 <div style="display: inline_block" align="center"><br>
    <a href="mailto:renedossantosbastos@gmail.com"><img alt="Gmail" title="René Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/rené-dos-santos-bastos"><img alt="Linkedin" title="René Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/rené-dos-santos-bastos-9125661b0"><img alt="Linkedin" title="René Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 
