@@ -5,7 +5,7 @@
 # Quem eu sou
 
 <h3> Olá , meu nome é René Bastos,</h3>
-<h4>&emsp;&emsp;&emsp;um apaixonado por música, cinema, literatura, games, cultura geek e claro, tecnologia! Com formação técnica no ano de 1994 em processamento de dados e com graduação em Direito desde 2004, desde 2019 voltei a me dedicar à área de tecnologia. Atualmente, busco conhecimento e certificações, com ênfase no backend e dedicação no intuito de migrar de área em definitivo.</h4> 
+<h4>&emsp;&emsp;&emsp;um apaixonado por música, cinema, literatura, games, cultura geek e claro, tecnologia! Com formação técnica no ano de 1994 em processamento de dados e com graduação em Direito desde 2004, desde 2019 voltei a me dedicar à área de tecnologia. Atualmente, busco conhecimento e certificações, com ênfase no backend e desenvolvimento em Java no intuito de migrar de área em definitivo.</h4> 
 
 # Estatísticas no Github
 
