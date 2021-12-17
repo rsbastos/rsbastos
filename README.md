@@ -10,9 +10,9 @@
 # Estatísticas no Github
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" width="250" src="https://github-readme-stats.vercel.app/api?username=rsbastos&show_icons=true&theme=dark">&nbsp;
-  <img align="center" width="250" src="https://github-readme-streak-stats.herokuapp.com?user=rsbastos&theme=dark-smoky&date_format=j%20M%5B%20Y%5D">&nbsp;
-  <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsbastos&layout=compact&langs_count=7&theme=github_dark"
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=rsbastos&show_icons=true&theme=dark">&nbsp;
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=rsbastos&theme=dark-smoky&date_format=j%20M%5B%20Y%5D">&nbsp;
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsbastos&layout=compact&langs_count=7&theme=github_dark"
 </div>
 
 
